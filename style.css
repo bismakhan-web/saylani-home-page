@@ -14,59 +14,7 @@
 body{
     background-color: whitesmoke;
 }
-.main{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    background-color: rgb(31, 108, 196);
-    align-items: center;
-}
-.p{
-    color: white;
-    display: block;
-    padding: 5px;
-}
-.two{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    height: 50px;
-    align-items: center;
-    height: 100px;
-}
-.four{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    background-color: whitesmoke;
-    align-items: center;
-    height: 50px;
-}
-.sub-four{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    background-color: royalblue;
-    height: 30px;
-}
-.fpara{
-    color: white;
-    display: block;
-    padding: 5px;
-    height: 30px;
-}
-.spara{
-    color: blue;
-    display: block;
-    padding: 5px;
-    height: 30px;
-}
-.tpara{
-    color: rgb(150, 240, 150);
-    display: block;
-    padding: 5px;
-    height: 30px;
-}
+
 
 h1{
     font-family: sahitya;
@@ -81,20 +29,6 @@ h1{
     font-weight: bold;
     color: rgb(17, 114, 61);
 }
-.six{
-
-    height: 300px;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-}
-.center{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
 #num{
     font-family: lobster;
     color: white;
@@ -108,7 +42,7 @@ h1{
     align-items: center;
 }
 #text{
-    font-family: lobster;
+    font-family: sahitya;
     font-weight: bold;
     font-size: 1em;
 }
