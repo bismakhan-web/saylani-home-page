@@ -1,0 +1,163 @@
+@font-face{
+    font-family: lobster;
+    src: url(Lobster-Regular.ttf);
+
+    font-family: volkorn;
+    src: url(Vollkorn-SemiBold.ttf.ttf);
+
+    font-family: Romanesco;
+    src: url(Romanesco-Regular.ttf);
+
+    font-family: sahitya;
+    src: url(Sahitya-Regular.ttf);
+}
+body{
+    background-color: whitesmoke;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: rgb(31, 108, 196);
+    align-items: center;
+}
+.p{
+    color: white;
+    display: block;
+    padding: 5px;
+}
+.two{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 50px;
+    align-items: center;
+    height: 100px;
+}
+.four{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: whitesmoke;
+    align-items: center;
+    height: 50px;
+}
+.sub-four{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: royalblue;
+    height: 30px;
+}
+.fpara{
+    color: white;
+    display: block;
+    padding: 5px;
+    height: 30px;
+}
+.spara{
+    color: blue;
+    display: block;
+    padding: 5px;
+    height: 30px;
+}
+.tpara{
+    color: rgb(150, 240, 150);
+    display: block;
+    padding: 5px;
+    height: 30px;
+}
+
+h1{
+    font-family: sahitya;
+    font-weight: bold;
+    font-size: 30px;
+}
+#fheading{
+    font-weight: bold;
+    color: rgb(31, 108, 196);
+}
+#sheading{
+    font-weight: bold;
+    color: rgb(17, 114, 61);
+}
+.six{
+
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#num{
+    font-family: lobster;
+    color: white;
+    font-size: 3em;
+}
+#sub-six{
+    width: 1200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+#text{
+    font-family: lobster;
+    font-weight: bold;
+    font-size: 1em;
+}
+#head{
+    font-family: sahitya;
+    font-weight: bold;
+    font-size: 35px;
+    padding-top: 25px;
+}
+#what{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+#seven{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#div{
+    color: rgb(16, 87, 194);
+    font-family: sahitya;
+    font-weight: bold;
+    font-size: 20px;
+    width: 350px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+#color{
+    color: rgb(174, 177, 184);
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 10px;
+}
+#icons{
+    background-color: rgb(31, 108, 196);
+    border-radius: 20px;
+    width: 30px;
+    height: 30px;
+}
+#width-set{
+    width: 100px;
+    height: 100px;
+}
+.p-3 {
+    padding: 1.5 !important;
+ }
